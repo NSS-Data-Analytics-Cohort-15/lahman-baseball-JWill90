@@ -3,10 +3,10 @@
 - A data dictionary is included with the files for this project.
 
 **Directions:**  
-* Within your repository, create a directory named "scripts" which will hold your scripts.
-* Create a branch to hold your work.
-* For each question, write a query to answer.
-* Complete the initial ten questions before working on the open-ended ones.
+* Done - Within your repository, create a directory named "scripts" which will hold your scripts.
+* Done - Create a branch to hold your work.
+* In Process: For each question, write a query to answer.
+* Team Assignment - In Process: Complete the initial ten questions before working on the open-ended ones.
 
 **Initial Questions**
 

@@ -324,7 +324,7 @@ It is supplemented by these tables:
 
 
 --------------------------------------------------------------------------
-2.1 MASTER table
+2.1 MASTER table - Looks like the data in the People Table
 
 
 playerID       A unique code asssigned to each player.  The playerID links
@@ -475,7 +475,6 @@ plyrMgr        Player Manager (denoted by 'Y')
 
 ------------------------------------------------------------------------------
 2.8  Teams table
-
 yearID         Year
 lgID           League
 teamID         Team
